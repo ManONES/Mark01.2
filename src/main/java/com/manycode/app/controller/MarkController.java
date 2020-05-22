@@ -15,7 +15,9 @@ import org.springframework.web.bind.annotation.GetMapping;
 
 import com.manycode.app.model.MarkMessage;
 import com.manycode.app.model.RegistroMovto;
+import com.manycode.app.model.SaldosMovto;
 import com.manycode.app.service.RegistroMovtoService;
+import com.manycode.app.service.SaldosMovtoService;
 
 
 @Controller
@@ -25,6 +27,9 @@ public class MarkController {
 	
 	@Autowired
 	private RegistroMovtoService registroMovtoService;
+	
+	@Autowired
+	private SaldosMovtoService saldosMovtoService;
 	
 
 	 
@@ -80,7 +85,32 @@ public class MarkController {
 	}	
 	
 	
-	@GetMapping("/listar/movtos")
+	@GetMapping("/movtos/iniciar")
+	public String iniciarSaldos() {
+		LOGGER.info("....MarkMessage iniciarSaldos!!!!");
+		SaldosMovto saldosmovto = new SaldosMovto();
+		
+		saldosmovto.setImporte_saldo_movto((long) 0);
+		saldosmovto.setNombresaldo("Saldos de movimientos");
+				
+		saldosMovtoService.createSaldosMovto(saldosmovto);
+		
+		return "Saldos";
+	}
+	
+	
+	@GetMapping("/movtos/listarsaldos")
+	public String saldos(Model model) {
+		LOGGER.info("....Lista TODO mensaje en  BD.");
+		model.addAttribute("mensajes",saldosMovtoService.listAllSaldosMovto());
+		LOGGER.info("....Fin Lista TODO mensaje en  BD.");
+		model.addAttribute("error","No hay error!!!");
+		
+		return("saldos");
+	}
+	
+	
+	@GetMapping("/movtos/listarmovtos")
 	public String movimientos(Model model) {
 		LOGGER.info("....Lista TODO mensaje en  BD.");		
 		model.addAttribute("mensajes", registroMovtoService.listAllRegistroMovto());
