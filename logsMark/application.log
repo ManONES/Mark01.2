@@ -1,0 +1,90 @@
+2020-05-20T17:47:21.431-0500 INFO >>Inicia programa Mark....
+2020-05-20T17:47:21.996-0500 INFO Starting Mark01Application on DESKTOP-DVEVJTF with PID 10840 (D:\SIESROIM\Projets\SpringToolSuite\Mark01\target\classes started by SIES in D:\SIESROIM\Projets\SpringToolSuite\Mark01)
+2020-05-20T17:47:22.003-0500 DEBUG Running with Spring Boot v2.2.7.RELEASE, Spring v5.2.6.RELEASE
+2020-05-20T17:47:22.004-0500 INFO No active profile set, falling back to default profiles: default
+2020-05-20T17:47:30.384-0500 INFO ....registerStompEndpoints
+2020-05-20T17:47:30.443-0500 INFO ....configureMessageBroker
+2020-05-20T17:47:31.320-0500 INFO Started Mark01Application in 9.781 seconds (JVM running for 12.832)
+2020-05-20T17:47:49.283-0500 INFO ....createRegistroMovto 
+2020-05-20T17:47:49.283-0500 INFO ....createRegistroMovto 
+2020-05-20T17:47:49.283-0500 INFO ....createRegistroMovto 
+2020-05-20T17:47:49.283-0500 INFO ....createRegistroMovto 
+2020-05-20T17:47:49.289-0500 INFO ....getSaldosMovto 
+2020-05-20T17:47:49.290-0500 INFO ....getSaldosMovto 
+2020-05-20T17:47:49.290-0500 INFO ....getSaldosMovto 
+2020-05-20T17:47:49.290-0500 INFO ....getSaldosMovto 
+2020-05-20T17:47:49.384-0500 INFO ....getSaldosMovto 
+2020-05-20T17:47:49.384-0500 INFO ....getSaldosMovto 
+2020-05-20T17:47:49.384-0500 INFO ....getSaldosMovto 
+2020-05-20T17:47:49.384-0500 INFO ....getSaldosMovto 
+2020-05-20T17:47:49.385-0500 INFO ....updateSaldosMovto ID:3....saldoanterior:0....saldomovto:914747
+2020-05-20T17:47:49.385-0500 INFO ....updateSaldosMovto ID:2....saldoanterior:0....saldomovto:19658
+2020-05-20T17:47:49.385-0500 INFO ....updateSaldosMovto ID:1....saldoanterior:0....saldomovto:222588
+2020-05-20T17:47:49.385-0500 INFO ....updateSaldosMovto ID:1....saldoanterior:0....saldomovto:163621
+2020-05-20T17:47:49.408-0500 INFO ....MarkMessage registromovto.getRString4():1....MarkMessage registromovto.getImporte_movto():222588
+2020-05-20T17:47:49.408-0500 INFO ....MarkMessage registromovto.getId():null....MarkMessage saldomovto.getImporte_saldo_movto():222588
+2020-05-20T17:47:49.409-0500 INFO ....MarkMessage registromovto.getRString4():1....MarkMessage registromovto.getImporte_movto():163621
+2020-05-20T17:47:49.409-0500 INFO ....MarkMessage registromovto.getId():null....MarkMessage saldomovto.getImporte_saldo_movto():163621
+2020-05-20T17:47:49.409-0500 INFO ....MarkMessage registromovto.getRString4():3....MarkMessage registromovto.getImporte_movto():914747
+2020-05-20T17:47:49.409-0500 INFO ....MarkMessage registromovto.getId():null....MarkMessage saldomovto.getImporte_saldo_movto():914747
+2020-05-20T17:47:49.409-0500 INFO ....MarkMessage registromovto.getRString4():2....MarkMessage registromovto.getImporte_movto():19658
+2020-05-20T17:47:49.409-0500 INFO ....MarkMessage registromovto.getId():null....MarkMessage saldomovto.getImporte_saldo_movto():19658
+2020-05-22T11:18:25.588-0500 INFO >>Inicia programa Mark....
+2020-05-22T11:18:26.609-0500 INFO Starting Mark01Application on DESKTOP-KJMP66F with PID 2944 (D:\SIESROIMONE\Project\SpringToolSuite\Mark01\target\classes started by SIES in D:\SIESROIMONE\Project\SpringToolSuite\Mark01)
+2020-05-22T11:18:26.614-0500 DEBUG Running with Spring Boot v2.2.7.RELEASE, Spring v5.2.6.RELEASE
+2020-05-22T11:18:26.616-0500 INFO No active profile set, falling back to default profiles: default
+2020-05-22T11:25:47.834-0500 INFO >>Inicia programa Mark....
+2020-05-22T11:25:48.499-0500 INFO Starting Mark01Application on DESKTOP-KJMP66F with PID 608 (D:\SIESROIMONE\Project\SpringToolSuite\Mark01\target\classes started by SIES in D:\SIESROIMONE\Project\SpringToolSuite\Mark01)
+2020-05-22T11:25:48.505-0500 DEBUG Running with Spring Boot v2.2.7.RELEASE, Spring v5.2.6.RELEASE
+2020-05-22T11:25:48.506-0500 INFO No active profile set, falling back to default profiles: default
+2020-05-22T11:34:00.199-0500 INFO >>Inicia programa Mark....
+2020-05-22T11:34:00.750-0500 INFO Starting Mark01Application on DESKTOP-KJMP66F with PID 5796 (D:\SIESROIMONE\Project\SpringToolSuite\Mark01\target\classes started by SIES in D:\SIESROIMONE\Project\SpringToolSuite\Mark01)
+2020-05-22T11:34:00.757-0500 DEBUG Running with Spring Boot v2.2.7.RELEASE, Spring v5.2.6.RELEASE
+2020-05-22T11:34:00.758-0500 INFO No active profile set, falling back to default profiles: default
+2020-05-22T11:35:02.205-0500 INFO >>Inicia programa Mark....
+2020-05-22T11:35:02.882-0500 INFO Starting Mark01Application on DESKTOP-KJMP66F with PID 740 (D:\SIESROIMONE\Project\SpringToolSuite\Mark01\target\classes started by SIES in D:\SIESROIMONE\Project\SpringToolSuite\Mark01)
+2020-05-22T11:35:02.889-0500 DEBUG Running with Spring Boot v2.2.7.RELEASE, Spring v5.2.6.RELEASE
+2020-05-22T11:35:02.890-0500 INFO No active profile set, falling back to default profiles: default
+2020-05-22T11:39:25.418-0500 INFO >>Inicia programa Mark....
+2020-05-22T11:39:25.993-0500 INFO Starting Mark01Application on DESKTOP-KJMP66F with PID 8400 (D:\SIESROIMONE\Project\SpringToolSuite\Mark01\target\classes started by SIES in D:\SIESROIMONE\Project\SpringToolSuite\Mark01)
+2020-05-22T11:39:26.061-0500 DEBUG Running with Spring Boot v2.2.7.RELEASE, Spring v5.2.6.RELEASE
+2020-05-22T11:39:26.063-0500 INFO No active profile set, falling back to default profiles: default
+2020-05-22T13:01:27.066-0500 INFO >>Inicia programa Mark....
+2020-05-22T13:01:27.739-0500 INFO Starting Mark01Application on DESKTOP-KJMP66F with PID 5020 (D:\SIESROIMONE\Project\SpringToolSuite\Mark01\target\classes started by SIES in D:\SIESROIMONE\Project\SpringToolSuite\Mark01)
+2020-05-22T13:01:27.746-0500 DEBUG Running with Spring Boot v2.2.7.RELEASE, Spring v5.2.6.RELEASE
+2020-05-22T13:01:27.747-0500 INFO No active profile set, falling back to default profiles: default
+2020-05-22T13:39:06.743-0500 INFO >>Inicia programa Mark....
+2020-05-22T13:39:07.277-0500 INFO Starting Mark01Application on DESKTOP-KJMP66F with PID 2852 (D:\SIESROIMONE\Project\SpringToolSuite\Mark01\target\classes started by SIES in D:\SIESROIMONE\Project\SpringToolSuite\Mark01)
+2020-05-22T13:39:07.284-0500 DEBUG Running with Spring Boot v2.2.7.RELEASE, Spring v5.2.6.RELEASE
+2020-05-22T13:39:07.286-0500 INFO No active profile set, falling back to default profiles: default
+2020-05-22T13:42:31.357-0500 INFO >>Inicia programa Mark....
+2020-05-22T13:42:32.011-0500 INFO Starting Mark01Application on DESKTOP-KJMP66F with PID 476 (D:\SIESROIMONE\Project\SpringToolSuite\Mark01\target\classes started by SIES in D:\SIESROIMONE\Project\SpringToolSuite\Mark01)
+2020-05-22T13:42:32.015-0500 DEBUG Running with Spring Boot v2.2.7.RELEASE, Spring v5.2.6.RELEASE
+2020-05-22T13:42:32.016-0500 INFO No active profile set, falling back to default profiles: default
+2020-05-22T13:42:39.586-0500 INFO ....registerStompEndpoints
+2020-05-22T13:42:39.635-0500 INFO ....configureMessageBroker
+2020-05-22T13:42:40.326-0500 INFO Started Mark01Application in 8.858 seconds (JVM running for 11.564)
+2020-05-22T13:44:43.159-0500 INFO >>Inicia programa Mark....
+2020-05-22T13:44:43.697-0500 INFO Starting Mark01Application on DESKTOP-KJMP66F with PID 1856 (D:\SIESROIMONE\Project\SpringToolSuite\Mark01\target\classes started by SIES in D:\SIESROIMONE\Project\SpringToolSuite\Mark01)
+2020-05-22T13:44:43.703-0500 DEBUG Running with Spring Boot v2.2.7.RELEASE, Spring v5.2.6.RELEASE
+2020-05-22T13:44:43.705-0500 INFO No active profile set, falling back to default profiles: default
+2020-05-22T13:44:49.934-0500 INFO ....registerStompEndpoints
+2020-05-22T13:44:49.971-0500 INFO ....configureMessageBroker
+2020-05-22T13:44:50.570-0500 INFO Started Mark01Application in 7.323 seconds (JVM running for 8.804)
+2020-05-22T13:45:32.122-0500 INFO ....createRegistroMovto 
+2020-05-22T13:45:32.129-0500 INFO ....getSaldosMovto 
+2020-05-22T13:45:32.190-0500 INFO ....createRegistroMovto 
+2020-05-22T13:45:32.190-0500 INFO ....getSaldosMovto 
+2020-05-22T13:45:32.212-0500 INFO ....createRegistroMovto 
+2020-05-22T13:45:32.212-0500 INFO ....getSaldosMovto 
+2020-05-22T13:45:32.254-0500 INFO ....createRegistroMovto 
+2020-05-22T13:45:32.254-0500 INFO ....getSaldosMovto 
+2020-05-22T13:45:32.267-0500 INFO ....createRegistroMovto 
+2020-05-22T13:45:32.267-0500 INFO ....getSaldosMovto 
+2020-05-22T13:58:04.634-0500 INFO >>Inicia programa Mark....
+2020-05-22T13:58:05.397-0500 INFO Starting Mark01Application on DESKTOP-KJMP66F with PID 5676 (D:\SIESROIMONE\Project\SpringToolSuite\Mark01\target\classes started by SIES in D:\SIESROIMONE\Project\SpringToolSuite\Mark01)
+2020-05-22T13:58:05.403-0500 DEBUG Running with Spring Boot v2.2.7.RELEASE, Spring v5.2.6.RELEASE
+2020-05-22T13:58:05.404-0500 INFO No active profile set, falling back to default profiles: default
+2020-05-22T13:58:11.149-0500 INFO ....registerStompEndpoints
+2020-05-22T13:58:11.181-0500 INFO ....configureMessageBroker
+2020-05-22T13:58:11.892-0500 INFO Started Mark01Application in 7.103 seconds (JVM running for 9.937)
