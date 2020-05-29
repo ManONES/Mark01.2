@@ -1,0 +1,7 @@
+2020-05-26T15:02:22.736-0500 INFO >>Inicia programa Mark....
+2020-05-26T15:02:23.909-0500 INFO Starting Mark01Application on DESKTOP-KJMP66F with PID 600 (D:\SIESROIMONE\Project\SpringToolSuite\Mark01\target\classes started by SIES in D:\SIESROIMONE\Project\SpringToolSuite\Mark01)
+2020-05-26T15:02:23.916-0500 DEBUG Running with Spring Boot v2.2.7.RELEASE, Spring v5.2.6.RELEASE
+2020-05-26T15:02:23.916-0500 INFO The following profiles are active: local
+2020-05-26T15:02:29.571-0500 INFO ....registerStompEndpoints
+2020-05-26T15:02:29.613-0500 INFO ....configureMessageBroker
+2020-05-26T15:02:30.187-0500 INFO Started Mark01Application in 7.329 seconds (JVM running for 9.01)
