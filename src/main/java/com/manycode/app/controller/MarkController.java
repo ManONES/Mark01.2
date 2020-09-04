@@ -110,7 +110,7 @@ public class MarkController {
 	}
 	
 	
-	@GetMapping("/movtos/listarmovtos")
+	@GetMapping("/movtos/listarmovtoss")
 	public String movimientos(Model model) {
 		LOGGER.info("....Lista TODO mensaje en  BD.");		
 		model.addAttribute("mensajes", registroMovtoService.listAllRegistroMovto());
